@@ -49,7 +49,7 @@ h3{
 /*.form{
     margin-top: 10%;
 }*/
-#guess{
+/*#guess{
     font-weight: bolder;
     font-size: large;
     
@@ -64,8 +64,8 @@ h3{
     box-sizing: border-box;
     border: 2px solid black;
     border-radius: 5px;
-}
-#subt{
+}*/
+/*#subt{
     background: burlywood;
     margin-top: 10%;
     padding: 10px;
@@ -82,7 +82,7 @@ h3{
     color: cornsilk;
     cursor: pointer;
 
-}
+}*/
 
 p{
     font-size: large;
@@ -91,15 +91,40 @@ p{
 
 }
 
-#guessfeild{
+/*#guessfeild{
  padding: 20px;
  box-sizing: border-box;
  padding: 20px 20px 0 0;
-}
+}*/
 #a{
     justify-content: center;
     text-align: center;
-    padding: 20px;
- box-sizing: border-box;
+    padding: 10px;
+    margin-right: 17%;
+    border: 2px solid black;
  padding: 20px 20px 0 0;
+}
+.text{
+    margin-top: 29%;
+    justify-content: center;
+    text-align: center;
+    font-size: large;
+}
+#b{
+    box-sizing: border-box;
+ padding: 20px 20px 0 0;
+    justify-content: center;
+    text-align: center;
+    margin-right: 10%;
+    border: 2px solid black;
+}
+#sub{
+    background: burlywood;
+    margin-top: 10%;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px 1px burlywood;
+    font-weight: bolder;
+    font-size: large;
 }
